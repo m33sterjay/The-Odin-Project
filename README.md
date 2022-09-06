@@ -18,11 +18,11 @@ The Odin Project is a project-based curriculum, so it will provide me more oppor
 
 [//]: # "If your README is long, add a table of contents to make it easy for users to find what they need."
 
+- [The Odin Project](#the-odin-project)
   - [Description](#description)
-  - [Table of Contents](#table-of-contents-optional)
+  - [Table of Contents](#table-of-contents)
   - [Credits](#credits)
   - [Projects](#projects)
-  - [Credits](#credits)
   - [Skills](#skills)
   - [Curriculum](#curriculum)
   - [Badges](#badges)
@@ -30,17 +30,18 @@ The Odin Project is a project-based curriculum, so it will provide me more oppor
 ## Credits
 
 The Odin Project
+
 [Website](https://www.theodinproject.com/) | [github](https://github.com/TheOdinProject/theodinproject)
 
 [//]: # "List your collaborators, if any, with links to their GitHub profiles. If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section. If you followed tutorials, include links to those here as well"
 
 ## Projects
 
-[//]: # (Go the extra mile and write tests for your application. Then provide examples on how to run them here.)
+[//]: # "Go the extra mile and write tests for your application. Then provide examples on how to run them here."
 
 ## Skills
 
-[//]: # (If your project has a lot of features, list them here.)
+[//]: # "If your project has a lot of features, list them here."
 
 ## Curriculum
 

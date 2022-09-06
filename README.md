@@ -1,8 +1,3 @@
-<style>
-h1 {font-size: xx-large;}
-h2 {font-size: x-large;}
-</style>
-
 # The Odin Project
 
 ## Description
